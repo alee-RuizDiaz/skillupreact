@@ -1,0 +1,12 @@
+.menu {
+    display: flex;
+    height: 2rem;
+    align-items: center;
+}
+
+.font {
+    font-size: 1rem;
+    text-decoration: none;
+    color: white;
+}
+
